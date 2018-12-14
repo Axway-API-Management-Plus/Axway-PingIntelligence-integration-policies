@@ -3,7 +3,7 @@
 This porject includes a set of policies to integrate Axway API Management solution with [PingIntelligence for APIs](https://www.pingidentity.com/en/platform/apiintelligence.html).
 When you deploy these policies, you will be able to enable additional API protection through PingIntelligence's AI engine.
 
-![Architecture](https://github.com/Axway-API-Management-Plus/Axway-PingIntelligence-integration-policies/images/PingIntelligene-for-APIs-Axway.png)
+![Architecture](/images/PingIntelligene-for-APIs-Axway.png)
 ### Version Compatibilty
 This artefact was successfully tested for the following versions:
 - Axway AMPLIFY API Management 7.5.3 or 7.6.2
