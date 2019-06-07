@@ -50,7 +50,7 @@ You need to use Axway Policy Studio to import provided policies:
 17. Follow PingIntelligence for APIs documentation to register these APIs with its API Security Enforce component.
 ## Limitations/Caveats
 - The policies are provided as a sample for integration with PingIntelligence for APIs
-- Policies don't implement a possible HA configuration for PingIntelligence for APIs
+- Provided policies implement a single server integration. For a producation deployment, make sure you configure the PingIntelligence for APIs product to support HA
 ## Contributing
 Please read [Contributing.md](https://github.com/Axway-API-Management-Plus/Common/blob/master/Contributing.md) for details on our code of conduct, and the process for submitting pull requests to us.
 ## Team
